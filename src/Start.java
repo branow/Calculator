@@ -1,5 +1,3 @@
-package calcul;
-
 import javax.swing.*;
 
 public class Start {
